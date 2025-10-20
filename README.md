@@ -1,4 +1,4 @@
-# Hybrid Chat System for Vietnam Travel
+# Hybrid Chat System for Vietnam Travel Dataset
 
 A hybrid chatbot system that combines graph database (Neo4j) and vector database (Pinecone) capabilities to provide intelligent responses about Vietnam travel destinations. This project demonstrates the integration of structured relationship queries with semantic search, complete with an automated evaluation framework for assessing system performance.
 
